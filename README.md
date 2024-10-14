@@ -1,3 +1,1 @@
-# Điệp đẹp trai
-## Điệp đẹp trai 
-### Điệp đẹp trai 
+# Repo nay sinh ra de hoc git
