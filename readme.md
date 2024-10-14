@@ -1,2 +1,3 @@
-Đây là file dùng để luyện tập git
-And bull shit thing
+# Điệp đẹp trai
+## Điệp đẹp trai 
+### Điệp đẹp trai 
